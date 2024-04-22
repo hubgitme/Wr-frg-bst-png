@@ -498,14 +498,14 @@
             "http/1.1"
           ],
           "fingerprint": "chrome",
-          "serverName": "4BF5B41f.BPb-WORKER-paGE-paNEL.PAGeS.Dev",
+          "serverName": "wrKVSUb.wR3.WorkERS.dEv",
           "show": false
         },
         "wsSettings": {
           "headers": {
-            "Host": "4bf5B41F.bPb-wOrker-PaGE-PaNeL.paGes.DeV"
+            "Host": "wrkvSUB.Wr3.woRKerS.DEV"
           },
-          "path": "/FaZ6LygKTbcDcSSL?ed=2048"
+          "path": "/vless-ws/?ed=2048"
         }
       },
       "tag": "proxy_10"
@@ -543,14 +543,14 @@
             "http/1.1"
           ],
           "fingerprint": "chrome",
-          "serverName": "4BF5b41F.Bpb-WoRKer-Page-pANeL.PageS.dEv",
+          "serverName": "wrKVSUb.wR3.WorkERS.dEv",
           "show": false
         },
         "wsSettings": {
           "headers": {
-            "Host": "4Bf5B41f.bpb-WORkEr-pAge-PanEl.PAgeS.dEv"
+            "Host": "wrkvSUB.Wr3.woRKerS.DEV"
           },
-          "path": "/E4V1xKsZBX8hwqwM?ed=2048"
+          "path": "/vless-ws/?ed=2048"
         }
       },
       "tag": "proxy_11"
@@ -588,14 +588,14 @@
             "http/1.1"
           ],
           "fingerprint": "chrome",
-          "serverName": "4bf5B41F.bPB-WOrkEr-PAgE-PaNEL.PAGEs.DEV",
+          "serverName": "wrKVSUb.wR3.WorkERS.dEv",
           "show": false
         },
         "wsSettings": {
           "headers": {
-            "Host": "4bF5b41F.BPB-WORkER-pagE-pANel.PagEs.DEv"
+            "Host": "wrkvSUB.Wr3.woRKerS.DEV"
           },
-          "path": "/PQUdnW08H2gzDSCu?ed=2048"
+          "path": "/vless-ws/?ed=2048"
         }
       },
       "tag": "proxy_12"
@@ -649,7 +649,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "🌐 WR  Frag - Best Ping 💥",
+  "remarks": "🌐 WR3  Frag - Best Ping 💥",
   "routing": {
     "balancers": [
       {
