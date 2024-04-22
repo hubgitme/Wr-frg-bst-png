@@ -498,14 +498,14 @@
             "http/1.1"
           ],
           "fingerprint": "chrome",
-          "serverName": "wRkvsUB.WR3.WoRKErs.deV",
+          "serverName": "4BF5B41f.BPb-WORKER-paGE-paNEL.PAGeS.Dev",
           "show": false
         },
         "wsSettings": {
           "headers": {
-            "Host": "WRkVSuB.wR3.WOrkerS.DEV"
+            "Host": "4bf5B41F.bPb-wOrker-PaGE-PaNeL.paGes.DeV"
           },
-          "path": "/vless-ws/?ed=2048"
+          "path": "/FaZ6LygKTbcDcSSL?ed=2048"
         }
       },
       "tag": "proxy_10"
@@ -543,14 +543,14 @@
             "http/1.1"
           ],
           "fingerprint": "chrome",
-          "serverName": "WrkVSuB.wr3.wOrKeRS.DeV",
+          "serverName": "4BF5b41F.Bpb-WoRKer-Page-pANeL.PageS.dEv",
           "show": false
         },
         "wsSettings": {
           "headers": {
-            "Host": "wrKvsUb.wr3.WoRKeRS.dEV"
+            "Host": "4Bf5B41f.bpb-WORkEr-pAge-PanEl.PAgeS.dEv"
           },
-          "path": "/vless-ws/?ed=2048"
+          "path": "/E4V1xKsZBX8hwqwM?ed=2048"
         }
       },
       "tag": "proxy_11"
@@ -588,14 +588,14 @@
             "http/1.1"
           ],
           "fingerprint": "chrome",
-          "serverName": "wrKvsUb.wr3.WoRKeRS.dEV",
+          "serverName": "4bf5B41F.bPB-WOrkEr-PAgE-PaNEL.PAGEs.DEV",
           "show": false
         },
         "wsSettings": {
           "headers": {
-            "Host": "WrkVsuB.wR3.WorKerS.dev"
+            "Host": "4bF5b41F.BPB-WORkER-pagE-pANel.PagEs.DEv"
           },
-          "path": "/vless-ws/?ed=2048
+          "path": "/PQUdnW08H2gzDSCu?ed=2048"
         }
       },
       "tag": "proxy_12"
