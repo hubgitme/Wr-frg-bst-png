@@ -100,7 +100,7 @@
           "headers": {
             "Host": "wrKvsUB.wR3.wORkers.dEV"
           },
-          "path": "/vless-ws/?ed=2048"
+          "path": "/vless-ws/?ed=2560"
         }
       },
       "tag": "proxy_1"
@@ -145,7 +145,7 @@
           "headers": {
             "Host": "WrkVSuB.wr3.wOrKeRS.DeV"
           },
-          "path": "/vless-ws/?ed=2048"
+          "path": "/vless-ws/?ed=2560"
         }
       },
       "tag": "proxy_2"
@@ -190,7 +190,7 @@
           "headers": {
             "Host": "wRkVSuB.WR3.WoRkErS.DeV"
           },
-          "path": "/vless-ws/?ed=2048"
+          "path": "/vless-ws/?ed=2560"
         }
       },
       "tag": "proxy_3"
@@ -235,7 +235,7 @@
           "headers": {
             "Host": "wRkVsUB.WR3.WOrkErS.dEv"
           },
-          "path": "/vless-ws/?ed=2048"
+          "path": "/vless-ws/?ed=2560"
         }
       },
       "tag": "proxy_4"
@@ -280,7 +280,7 @@
           "headers": {
             "Host": "WRkVsUB.wR3.WoRKers.dEV"
           },
-          "path": "/vless-ws/?ed=2048"
+          "path": "/vless-ws/?ed=2560"
         }
       },
       "tag": "proxy_5"
@@ -325,7 +325,7 @@
           "headers": {
             "Host": "wRKVsub.WR3.wOrkeRs.DEV"
           },
-          "path": "/vless-ws/?ed=2048"
+          "path": "/vless-ws/?ed=2560"
         }
       },
       "tag": "proxy_6"
@@ -370,7 +370,7 @@
           "headers": {
             "Host": "wRkvsUB.WR3.WoRKErs.deV"
           },
-          "path": "/vless-ws/?ed=2048"
+          "path": "/vless-ws/?ed=2560"
         }
       },
       "tag": "proxy_7"
@@ -415,7 +415,7 @@
           "headers": {
             "Host": "WrkVsuB.wR3.WorKerS.dev"
           },
-          "path": "/vless-ws/?ed=2048"
+          "path": "/vless-ws/?ed=2560"
         }
       },
       "tag": "proxy_8"
@@ -460,7 +460,7 @@
           "headers": {
             "Host": "wrKVSUb.wR3.WorkERS.dEv"
           },
-          "path": "/vless-ws/?ed=2048"
+          "path": "/vless-ws/?ed=2560"
         }
       },
       "tag": "proxy_9"
@@ -505,7 +505,7 @@
           "headers": {
             "Host": "wrkvSUB.Wr3.woRKerS.DEV"
           },
-          "path": "/vless-ws/?ed=2048"
+          "path": "/vless-ws/?ed=2560"
         }
       },
       "tag": "proxy_10"
@@ -550,7 +550,7 @@
           "headers": {
             "Host": "wrkvSUB.Wr3.woRKerS.DEV"
           },
-          "path": "/vless-ws/?ed=2048"
+          "path": "/vless-ws/?ed=2560"
         }
       },
       "tag": "proxy_11"
@@ -595,7 +595,7 @@
           "headers": {
             "Host": "wrkvSUB.Wr3.woRKerS.DEV"
           },
-          "path": "/vless-ws/?ed=2048"
+          "path": "/vless-ws/?ed=2560"
         }
       },
       "tag": "proxy_12"
