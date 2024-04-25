@@ -649,7 +649,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "🌐 WR3  Frag - Best Ping 💥",
+  "remarks": "🌐 WR3 - Best Ping 💥",
   "routing": {
     "balancers": [
       {
